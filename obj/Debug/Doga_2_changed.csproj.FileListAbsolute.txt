@@ -1,0 +1,7 @@
+C:\Users\gecsel\Gitwork\Doga_2_changed\bin\Debug\Doga_2_changed.exe.config
+C:\Users\gecsel\Gitwork\Doga_2_changed\bin\Debug\Doga_2_changed.exe
+C:\Users\gecsel\Gitwork\Doga_2_changed\bin\Debug\Doga_2_changed.pdb
+C:\Users\gecsel\Gitwork\Doga_2_changed\obj\Debug\Doga_2_changed.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\Doga_2_changed\obj\Debug\Doga_2_changed.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\Doga_2_changed\obj\Debug\Doga_2_changed.exe
+C:\Users\gecsel\Gitwork\Doga_2_changed\obj\Debug\Doga_2_changed.pdb
